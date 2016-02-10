@@ -1,5 +1,5 @@
 body{
-    font-family: "Arial";
+    font-family: "comic sans";
     background: lightblue;
 }
 
@@ -34,4 +34,7 @@ ul.ponys li figure img{
 
 ul.ponys li figure figcaption {
     text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    background: yellowgreen;
 } 
